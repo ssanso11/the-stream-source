@@ -1,0 +1,18 @@
+.category-hulu-div {
+  width: 95%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  grid-gap: 1em;
+}
+.category-netflix-div {
+  width: 95%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  grid-gap: 1em;
+}
+.category-prime-div {
+  width: 95%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  grid-gap: 1em;
+}
